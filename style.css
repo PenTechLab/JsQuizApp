@@ -39,6 +39,7 @@ label {
 }
 select {
   width: 100%;
+  height: 50px;
   padding: 10px;
   border: none;
   text-transform: capitalize;
@@ -199,21 +200,4 @@ select {
     max-width: 100%;
     border-radius: 0;
   }
-  label {
-  display: block;
-  font-size: 12px;
-  margin-bottom: 10px;
-  color: #fff;
-}
-select {
-  width: 100%;
-  padding: 10px;
-  border: none;
-  text-transform: capitalize;
-  border-radius: 5px;
-  margin-bottom: 20px;
-  background: #fff;
-  color: #1f2847;
-  font-size: 14px;
-}
 }
